@@ -1,6 +1,9 @@
 [Back](../README.md)
 # Setup PixelExperience/Any Custom Rom
 
+>This is a ducumentation of my case by using a Xiaomi Redmi Note 10 Pro
+
+
 ## Requirements
 
 >**PC:** 
