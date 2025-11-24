@@ -1,4 +1,4 @@
-[Back](../README.MD)
+[Back](../README.md)
 # Switch from CasaOS to UmbrelOS
 ## Why?
 > CasaOS on Raspi5 - "Failed to load apps, please refresh later."
@@ -10,3 +10,4 @@
 > Install umbrelos-pi5.img.zip - extract them
 
 > Wait, Wait and Wait...
+
