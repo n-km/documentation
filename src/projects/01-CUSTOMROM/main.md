@@ -1,4 +1,4 @@
-[Back](../README.md)
+[Back](../../../README.md)
 # Setup PixelExperience/Any Custom Rom
 
 > This is a documentation of my experience using a Xiaomi Redmi Note 10 Pro

@@ -1,8 +1,8 @@
 [n-km](https://github.com/n-km)
 # Documentation
 
->[Switch from CasaOS to UmbrelOS](UMBREL/main.md)
+>[Switch from CasaOS to UmbrelOS](src/projects/03-UMBREL/main.md)
 >
->[Setup PixelExperience/Any Custom Rom](setup_custom-rom/SETUP.md)
+>[Git](src/projects/02-GIT/)
 >
->[git-stuff](git/git.md)
+>[Setup PixelExperience/Any Custom Rom](src/projects/01-CUSTOMROM/)
