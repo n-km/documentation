@@ -16,3 +16,11 @@
 ### Flashing OS on MicroSD
 - Failed.
 - Currently looking for another OS
+
+### Using DietPi
+- Successfully
+- installing immich via docker
+- get interesting of how to backup data how and where
+
+#### First Solution
+- cronjobs (That's the part where I'am looking for currently.)
