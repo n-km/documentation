@@ -29,3 +29,6 @@ END OF FILE
 ########################################################
 ```
 > An file to me.
+
+## Conclusion
+**⚠️ Don't run this locally on the server. In my case, my Raspberry Pi 5 got a RAM overflow.**
