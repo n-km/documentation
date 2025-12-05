@@ -1,10 +1,10 @@
-# 📚 Documentation Dashboard
+# Documentation Dashboard
 
 **Repository Owner:** [n-km](https://github.com/n-km)  
 
 ---
 
-## 🚀 Quick Navigation
+## Navigation
 
 | Project | Description | Status |
 |---------|-------------|--------|
