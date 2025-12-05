@@ -24,3 +24,6 @@
 
 #### First Solution
 - cronjobs (That's the part where I'am looking for currently.)
+
+#### Upload images via using the cli
+[immich-go](immich/IMMICH-GO.md)
